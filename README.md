@@ -45,10 +45,3 @@ To accurately forecast daily shifts, the models utilize a blend of price data an
 * **RSI_14 (Relative Strength Index):** Evaluates momentum thresholds to distinguish overbought or oversold conditions.
 * **Price Lags:** Historical price vectors providing rolling continuity anchors.
 
----
-
-## 🚀 How to Run Locally
-
-1. Clone this repository:
-```bash
-git clone [https://github.com/LishaJane23/bitcoin-price-prediction-ml.git](https://github.com/LishaJane23/bitcoin-price-prediction-ml.git)
